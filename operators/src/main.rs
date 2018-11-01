@@ -1,4 +1,3 @@
-
 fn main() {
     let mut a = 1+234+123*80;
     println!("{}",a);
